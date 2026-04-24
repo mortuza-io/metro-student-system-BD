@@ -1,0 +1,5 @@
+CREATE DATABASE MetroDB;
+GO
+
+USE MetroDB;
+GO
