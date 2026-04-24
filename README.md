@@ -44,3 +44,14 @@ The ER diagram source is available in:
 
 ```txt
 er-diagram/dbdiagram.dbml
+````
+
+## ⭐ Support
+
+If you like this project:
+
+- Star the repo
+- Fork it
+- Share it
+
+💚 Built with passion for learning and real-world impact
