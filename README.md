@@ -43,7 +43,7 @@ A SQL Server database project for managing student metro card verification, tick
 The ER diagram source is available in:
 
 ```txt
-er-diagram/dbdiagram.dbml
+er-diagram/dbdiagram.sql
 ````
 
 ## ⭐ Support
